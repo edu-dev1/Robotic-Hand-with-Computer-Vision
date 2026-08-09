@@ -1,0 +1,9 @@
+Requeriments
+    Hardware:
+        Arduino UNO.
+        Servomotors.
+        3D shell of a human right hand (custom design).
+        A PC (obviously).
+    Software:
+        Python 3.12 with the OpenCV (cv2) and PySerial (serial) modules installed.
+        Arduino IDE with the Servo library installed.
